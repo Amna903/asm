@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Mac\\Home\\Downloads\\2023-cs-83.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\AddTwo.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4164AA65-1EF9-4E69-899B-D1BED776070B}|Project.vcxproj|solutionrelative:AddTwo.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\Project.v12.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.v12.suo||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\Project.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2023-cs-83.asm",
+              "DocumentMoniker": "C:\\Mac\\Home\\Downloads\\2023-cs-83.asm",
+              "RelativeDocumentMoniker": "..\\..\\2023-cs-83.asm",
+              "ToolTip": "C:\\Mac\\Home\\Downloads\\2023-cs-83.asm",
+              "RelativeToolTip": "..\\..\\2023-cs-83.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-18T21:23:19.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.v12.suo",
+              "DocumentMoniker": "C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\Project.v12.suo",
+              "RelativeDocumentMoniker": "Project.v12.suo",
+              "ToolTip": "C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\Project.v12.suo",
+              "RelativeToolTip": "Project.v12.suo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALySURBVFhHvZc/SBtRHIC/\u002BxPbnhSki0MWcahCLe1S6Fhq6KSiZqmDkK4ORbpeoS0Y7NA/Dq1LoAoOqRRNNC4WoeDqIAqFbE5XmkUU4Wlb9DqYd717yV0uofpB4OX37vH77v3ee3enEYEQYhh4D3SpfTGYtyzriRoM4LqupsYkQogMMKfGm6ShRJTAHtCVy\u002BVYWVlRuyNJpVJMTk7Kv5ESUQIuwMDAgNoVi7gSsQWWlgvqJaGkR0cgpoSuBv4nGxsbzMzMyL8ZIUTNmrpQAWJIXLgADSQuRYA6ErLR9CKUCyyMpeVC5DVra2sAWJal0YpAq0gpVeDSShBG0zMQNb1\u002B/KXwt9UZaFpAomkabQkT13U5PT3j9Ows0K8SJtByCRKmAVUR0zS40pbANA10PfSe6lJXQAgR\u002BvhNj47QljDRNI28XcK\u002B/4a8XcIpVzB0nYRpenebHh1pWLKAbjXxC/8\u002BVUtgmgaGrrM\u002Bu8n6x81/g4F3358D8Ov3n0CcOCWonk57/uQA3d3dXts0zpNvFXdrkreKvwQZgK3iLlOPPpC3SwBMT08DYOg6hqHjlCvk7VXfsHDilKBmDeTtVfadA7aKO\u002BTtEu3t7SwuLmKaBk65wmxmwbv23vCdwFiVpeVCze5RqRHw45c4Pjrhs73K8dEJVJOPZQfVIU0TKiDvTkrMZhZwyhWv738kJ0pgLDsYkLiI5EQJhPGj/JN951ANt4ypBiR5u8RWcQeAa9evAnB8dIJTrvA2nWMsO0hff48y6pxGK99P6Az4k0/MjzMxPx4Q\u002BfT0C8XXX5VR0aRSKdk8kA3vJJQPn2e3pmSIZG8nj7NDJHs7AbxtKHeCijwJY/DKsqyX1JuBsewQN5IdJHs7mZgf95JTFVJjTXLgT44yA3PqMVylCMj3\u002BW/A3eOjk8C2lMgZkOd8HBo9jAIfE0KIDqAAPJAS\u002B84hff093H5401uUzQjURQjRVf04rYsQYk4I4Yb8ttXrLwRFYlsIMRn1HhHGX1JEhA\u002BXqjgQAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-18T21:23:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.vcxproj.user",
+              "DocumentMoniker": "C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\Project.vcxproj.user",
+              "RelativeDocumentMoniker": "Project.vcxproj.user",
+              "ToolTip": "C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\Project.vcxproj.user",
+              "RelativeToolTip": "Project.vcxproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-01-18T21:23:15.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTwo.asm",
+              "DocumentMoniker": "C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\AddTwo.asm",
+              "RelativeDocumentMoniker": "AddTwo.asm",
+              "ToolTip": "C:\\Mac\\Home\\Downloads\\Project32_VS2022\\Project32_VS2022\\AddTwo.asm",
+              "RelativeToolTip": "AddTwo.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-18T21:23:19.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
